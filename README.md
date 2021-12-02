@@ -23,3 +23,10 @@ will be solved with a different programming language
        .         .   .   000     .        .       .
 .. .. ..................O000O........................ ...... ...
 ```
+
+## Challenges
+
+- [x] Day 1 (Python)
+- [x] Day 2 (C++)
+
+
