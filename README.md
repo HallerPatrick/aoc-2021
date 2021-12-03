@@ -28,5 +28,6 @@ will be solved with a different programming language
 
 - [x] Day 1 (Python)
 - [x] Day 2 (C++)
+- [x] Day 3 (Typescript (with Deno Runtime))
 
 
