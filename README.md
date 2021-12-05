@@ -30,5 +30,5 @@ will be solved with a different programming language
 - [x] Day 2 (C++)
 - [x] Day 3 (Typescript (with Deno Runtime))
 - [x] Day 4 (Ruby)
-
+- [x] Day 5 (Nim)
 
