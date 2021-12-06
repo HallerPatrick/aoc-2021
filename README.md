@@ -31,4 +31,5 @@ will be solved with a different programming language
 - [x] Day 3 (Typescript (with Deno Runtime))
 - [x] Day 4 (Ruby)
 - [x] Day 5 (Nim)
+- [x] Day 6 (Java)
 
