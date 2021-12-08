@@ -1,0 +1,12 @@
+{
+    "configurations": {
+        "sample": {
+            "adapter": "debugpy",
+            "configuration": {
+                "request": "launch",
+                "program": "${file}"
+            }
+        }
+
+    }
+}

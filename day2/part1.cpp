@@ -32,12 +32,11 @@ int main() {
     } else if (direction == "up") {
       location.depth -= value;
     }
-
   }
   file.close();
 
-  cout << "Final location: " << location.forward << " " << location.depth << endl;
+  cout << "Final location: " << location.forward << " " << location.depth
+       << endl;
   cout << "Final value: " << location.forward * location.depth << endl;
-
   return 0;
 }
