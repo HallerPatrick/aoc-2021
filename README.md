@@ -33,4 +33,6 @@ will be solved with a different programming language
 - [x] Day 5 (Nim)
 - [x] Day 6 (Java)
 - [x] Day 7 (Dart)
+- [x] Day 8 (Swift)
+- [x] Day 9 (Groovy)
 
