@@ -36,4 +36,5 @@ will be solved with a different programming language
 - [x] Day 8 (Swift)
 - [x] Day 9 (Groovy)
 - [x] Day 10 (D)
+- [x] Day 11 (Scala)
 
