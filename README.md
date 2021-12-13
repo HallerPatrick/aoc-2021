@@ -37,4 +37,5 @@ will be solved with a different programming language
 - [x] Day 9 (Groovy)
 - [x] Day 10 (D)
 - [x] Day 11 (Scala)
+- [x] Day 12 (Kotlin)
 
